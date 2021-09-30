@@ -1,0 +1,9 @@
+.home {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+.home h1 {
+  font-size: 60px;
+  font-family: PC;
+  border-bottom: black solid;
+}

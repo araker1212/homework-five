@@ -1,0 +1,78 @@
+.home {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding-top: 192px;
+
+  .about {
+    width: 60%;
+    padding-left: 50px;
+
+    h1 {
+      font-size: 60px;
+      font-family: PC;
+    }
+
+    p {
+      font-size: 16px;
+      font-family: GS;
+    }
+  }
+
+  .client {
+    width: 60%;
+    padding-left: 50px;
+    padding-top: 95px;
+    padding-bottom: 50px;
+
+    h1 {
+      font-size: 40px;
+      font-family: PC;
+    }
+
+    .clientOne {
+      display: flex;
+
+      img {
+        width: 260px;
+        height: 150px;
+        padding-right: 21px;
+        padding-left: 15px;
+      }
+
+      .infoOne {
+        font-size: 16px;
+        font-family: GS;
+
+        .nameOne {
+          padding-left: 286px;
+          font-size: 20px;
+          font-family: GS;
+          color: #79addc;
+        }
+      }
+    }
+
+    .clientTwo {
+      display: flex;
+
+      img {
+        width: 260px;
+        height: 150px;
+        padding-right: 21px;
+        padding-left: 15px;
+      }
+
+      .infoTwo {
+        font-size: 16px;
+        font-family: GS;
+
+        .nameTwo {
+          padding-left: 286px;
+          font-size: 20px;
+          font-family: GS;
+          color: #79addc;
+        }
+      }
+    }
+  }
+}
